@@ -41,3 +41,4 @@ cv2.imshow('Mask', mask)
 cv2.imshow('Result', yellow_helmet_only)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# trying to display the mask and result using Matplotlib
